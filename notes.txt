@@ -1,0 +1,1 @@
+when logging out functions from chatview table are still runnign why is that I know since I can see the print states
